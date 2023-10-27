@@ -1,0 +1,62 @@
+.gfg, .gfgg {
+  margin: 3%;
+  position: relative;
+  display: inline-block;
+}
+.tweet-button{
+  background-color: #ffc037;
+  color: black;
+  border: none;
+  height:50px;
+  width: 120px;
+  border-radius: 18px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: Roboto;
+  cursor: pointer;
+  margin-left: 608px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+}
+
+.tweet-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.first-txt {
+  position: absolute;
+  top: 70px;
+  left: 170px;
+  right: 0px;
+  font-size: 19px;
+  padding-right: 70px;
+  
+}
+
+.back{
+  background-color: rgba(255, 255, 255,0.2);
+}
+.photo{
+  margin-left: 160px;
+  margin-top: 40px;
+  transition: box-shadow 0.3s;
+  float: left;
+}
+
+.nume{
+  font-family: Roboto;
+  font-weight: 700;
+  color: aliceblue;
+  font-size: 40px;
+}
+
+.photo:hover{
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
+}
+.wiki{
+  color: white;
+  font-size: 21px;
+  font-style: Roboto;
+}
+
+

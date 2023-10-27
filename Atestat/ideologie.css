@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  }
+  
+  #box1{
+  height: 100vh;
+  width: 100%;
+  background-image: url('politicieni.jpg');
+  background-size: cover;
+  display:table;
+  background-attachment: fixed;
+  color: aliceblue;
+  margin-top: 50px;
+  }
+  
+  #box2{
+  height: 100vh;
+  width: 100%;
+  background-image: url('rel.jpg');
+  background-size: cover;
+  display:table;
+  background-attachment: fixed;
+  }
+  
+  #box3{
+  height: 100vh;
+  width: 100%;
+  background-image: url('filosofie.jpg');
+  background-size: cover;
+  display:table;
+  background-attachment: fixed;
+  }
+  
+
+  
+  
+  h1 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size:50px;
+  color:rgb(184, 7, 7);
+  margin-top: 30px;
+  margin-left: 100px;
+  text-align: center;
+  
+ 
+  }
+  .citat{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 100;
+    color: white;
+    background-color: black;
+    margin-left: 180px;
+    margin-right: 157px;
+    margin-top: 90px;
+
+  }
